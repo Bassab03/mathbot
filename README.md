@@ -47,6 +47,13 @@ Mathbot requires you to host your own instance, since I currently don't have the
 
 21. The bot will now join the server! Enjoy!
 
+## Usage
+To launch Mathbot again after you have closed the command line, press `Win+R` again, type in `cmd` and hit `Enter`. Navigate to your Mathbot folder with `cd` as described in the `Installation` section. Then type `node bot.js` and hit `Enter`. Mathbot has now been lauched!
+
+If you need help with the commands, type `math.help` in the chat of a server that Mathbot is a member of.
+
+If that isn't enough and you want more help, then join [this Discord server](https://discord.gg/n27yKQN) and ask away!
+
 ## Bugs and issues
 If you happen to find anything you believe is an issue, you can do one of the following:
 * Join the official Mathbot Help Chat at <https://discord.gg/n27yKQN>.
