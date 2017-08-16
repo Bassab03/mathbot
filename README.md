@@ -7,7 +7,7 @@ Mathbot requires you to host your own instance, since I currently don't have the
 * node.js (v6.11.2 or later recommended)
 
 ## Installation
-1. Go to https://discordapp.com/developers and click `My Apps`.
+1. Go to <https://discordapp.com/developers> and click `My Apps`.
 
 2. Create a new app by clicking on `New App`.
 
@@ -17,13 +17,13 @@ Mathbot requires you to host your own instance, since I currently don't have the
 
 5. Press `Create App`.
 
-6. Now go back to the GitHub repository and click 'Clone or download' and then 'Download ZIP'.
+6. Now go back to the GitHub repository and click `Clone or download` and then `Download ZIP`.
 
 7. Go into your file explorer, unZIP the file somewhere on your computer and go into the folder.
 
 8. Next, open `config.json` in a plain text editor.
 
-9. Go back to the page of your app on https://discordapp.com/developers.
+9. Go back to the page of your app on <https://discordapp.com/developers>.
 
 10. Copy the number next to `Client ID` and paste it over `ClientIDGoesHere` in `config.json`.
 
@@ -49,5 +49,8 @@ Mathbot requires you to host your own instance, since I currently don't have the
 
 ## Bugs and issues
 If you happen to find anything you believe is an issue, you can do one of the following:
-* Join the official Mathbot Help Chat at https://discord.gg/n27yKQN.
+* Join the official Mathbot Help Chat at <https://discord.gg/n27yKQN>.
 * Create an issue on Mathbot's GitHub.
+
+If you have any more questions about Mathbot, feel free to contact me (Bassab03) on Discord. You can find me on [https://discord.gg/n27yKQN](this server).
+Thanks for reading and using Mathbot! I hope you enjoy.
