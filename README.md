@@ -52,5 +52,6 @@ If you happen to find anything you believe is an issue, you can do one of the fo
 * Join the official Mathbot Help Chat at <https://discord.gg/n27yKQN>.
 * Create an issue on Mathbot's GitHub.
 
-If you have any more questions about Mathbot, feel free to contact me (Bassab03) on Discord. You can find me on [https://discord.gg/n27yKQN](this server).
+If you have any more questions about Mathbot, feel free to contact me (Bassab03) on Discord. You can find me on [this server](https://discord.gg/n27yKQN).
+
 Thanks for reading and using Mathbot! I hope you enjoy.
