@@ -7,57 +7,29 @@ Mathbot requires you to host your own instance, since I currently don't have the
 * node.js (v6.11.2 or later recommended)
 
 ## Installation
-1. Go to <https://discordapp.com/developers> and click `My Apps`.
+1. Create a new app on [https://discordapp.com/developers](https://discordapp.com/developers/applications/me) and create a bot user for it.
 
-2. Create a new app by clicking on `New App`.
+2. Install `discord.js` by typing `npm install discord.js` in the command line.
 
-3. Name it whatever you like, but I think Mathbot sounds cool :D
+3. Download this GitHub repository.
 
-4. Give it a description and profile picture, you know the drill.
+4. Fill in your bot's Client ID and Bot Token in `config.json`.
 
-5. Press `Create App`.
+5. Navigate to the bot folder in the command line and run the bot with `node bot.js`.
 
-6. Now go back to the GitHub repository and click `Clone or download` and then `Download ZIP`.
-
-7. Go into your file explorer, unZIP the file somewhere on your computer and go into the folder.
-
-8. Next, open `config.json` in a plain text editor.
-
-9. Go back to the page of your app on <https://discordapp.com/developers>.
-
-10. Copy the number next to `Client ID` and paste it over `ClientIDGoesHere` in `config.json`.
-
-11. Go back to the app page, reveal the token and paste it over `BotTokenGoesHere` in `config.json`.
-
-12. Ignore `"prefix"` for now. Save `config.json` and close it.
-
-13. Copy the file path of the folder that contains `bot.js` and `config.json`.
-
-14. Press `Win+R` and type in `cmd`, then hit `Enter`.
-
-15. In the command line, type in `cd ` and paste in the file path you copied, then hit `Enter`.
-
-16. Now type `npm install discord.js` and hit `Enter`.
-
-17. Type `node bot.js` and hit `Enter`. If you executed the previous steps successfully, the console will say `Joined all available servers.`, followed by a link!
-
-19. Copy the link and paste it into your web browser's URL bar.
-
-20. Authorize the bot on your Discord account and select the server you want it to join, then click `Authorize`. (note: You need to have 'Manage Server' permissions on a server if you want to let a bot in)
-
-21. The bot will now join the server! Enjoy!
+6. Once your bot is up and running, it will spit out a hyperlink in the console. You can use this link to add the bot to servers.
 
 ## Usage
-To launch Mathbot again after you have closed the command line, press `Win+R` again, type in `cmd` and hit `Enter`. Navigate to your Mathbot folder with `cd` as described in the `Installation` section. Then type `node bot.js` and hit `Enter`. Mathbot has now been lauched!
+To launch Mathbot again after you have closed the command line, simply navigate to your Mathbot folder and enter `node bot.js`.
 
 If you need help with the commands, type `math.help` in the chat of a server that Mathbot is a member of.
 
-If that isn't enough and you want more help, then join [this Discord server](https://discord.gg/n27yKQN) and ask away!
+If that didn't quite solve your problem, join [this Discord server](https://discord.gg/n27yKQN) and ask away!
 
 ## Bugs and issues
 If you happen to find anything you believe is an issue, you can do one of the following:
 * Join the official Mathbot Help Chat at <https://discord.gg/n27yKQN>.
-* Create an issue on Mathbot's GitHub.
+* Create an issue on Mathbot's [GitHub](https://github.com/Bassab03/mathbot/issues).
 
 If you have any more questions about Mathbot, feel free to contact me (Bassab03) on Discord. You can find me on [this server](https://discord.gg/n27yKQN).
 
